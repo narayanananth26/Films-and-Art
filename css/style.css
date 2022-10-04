@@ -121,7 +121,7 @@
 /************************************/
 
 .collage {
-	/* margin-top: 3rem; */
+	margin-top: 10rem;
 	width: 100%;
 	display: grid;
 	grid-template-columns: repeat(4, 1fr);
